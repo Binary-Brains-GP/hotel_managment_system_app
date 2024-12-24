@@ -30,10 +30,6 @@ class AppRouter {
         return MaterialPageRoute(
           builder: (_) => SplashScreen(),
         );
-      case Routes.onBoardingScreen:
-        return MaterialPageRoute(
-          builder: (_) => LoginScreen(),
-        );
       case Routes.loginScreen:
         return MaterialPageRoute(builder: (_) => LoginScreen());
       case Routes.signUpScreen:
