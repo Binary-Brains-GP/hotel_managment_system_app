@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513779075288",
+    "project_id": "desingproject-63b1e",
+    "storage_bucket": "desingproject-63b1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513779075288:android:36239ce00d4c4affc0afad",
+        "android_client_info": {
+          "package_name": "com.example.design_pattern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcBJQIyWYsTEIwmj15ylAqqdlGEijUD88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

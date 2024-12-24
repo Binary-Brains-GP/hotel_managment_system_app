@@ -37,7 +37,7 @@ class SplashScreen extends StatelessWidget {
                 buttonText: "To Home",
                 textStyle: MyTextStyle.font18WhiteSemiBold,
                 onPressed: () {
-                  Navigator.pushReplacementNamed(context, Routes.homeScreen);
+                  Navigator.pushReplacementNamed(context, Routes.homeStateScreen);
                 },
               ),
               SizedBox(height: 20),

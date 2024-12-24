@@ -4,27 +4,15 @@ import 'colors.dart';
 
 class MyTextStyle {
   //her we add out custom fonts even if we gonna use it once (:
-  static TextStyle font24LightPurpleBold = TextStyle(
-    fontSize: 24.sp,
-    fontFamily: "poppins",
-    fontWeight: FontWeight.bold,
-    color: MyColors.myLightPurple,
-  );
-  static TextStyle font48LightPurpleBold =TextStyle(
-    fontSize: 48.sp,
-    fontFamily: "poppins",
-    fontWeight: FontWeight.bold,
-    color: MyColors.myLightPurple,
-  );
-  static TextStyle font18MainPurpleSemiBold = TextStyle(
-      fontSize: 18.sp,
-      fontFamily: "poppins",
-      fontWeight: FontWeight.w600,
-      color: MyColors.mainPurple);
+
   static TextStyle font18WhiteSemiBold = TextStyle(
       fontSize: 18.sp,
       fontFamily: "poppins",
       fontWeight: FontWeight.w600,
+      color: Colors.white);
+  static TextStyle font18WhiteRegular = TextStyle(
+      fontSize: 18.sp,
+      fontFamily: "poppins",
       color: Colors.white);
   static TextStyle font18BlackSemiBold = TextStyle(
       fontSize: 18.sp,
@@ -64,17 +52,27 @@ class MyTextStyle {
       fontWeight: FontWeight.bold,
       color: Colors.black
   );
-  static TextStyle font26MainPurpleBold = TextStyle(
-    fontSize: 26.sp,
-    fontFamily: "poppins",
-    fontWeight: FontWeight.bold,
-    color: MyColors.mainPurple,
+  static TextStyle font16MainBrownRegular = TextStyle(
+      fontSize: 16.sp,
+      fontFamily: "poppins",
+      color: MyColors.mainBrown
   );
-  static TextStyle font22MainPurpleSemiBold = TextStyle(
-    fontSize: 22.sp,
-    fontFamily: "poppins",
-    fontWeight: FontWeight.w600,
-    color: MyColors.mainPurple,
+  static TextStyle font16WhiteRegular = TextStyle(
+    color: Colors.white,
+    fontSize: 16.sp,
+    fontWeight: FontWeight.w400,
+    fontFamily: "Poppins",
+  );
+  static TextStyle font16BlackRegular = TextStyle(
+    color: Colors.black87,
+    fontSize: 16.sp,
+    fontWeight: FontWeight.w400,
+    fontFamily: "Poppins",
+  );
+  static TextStyle font20MainBrownRegular = TextStyle(
+    color: MyColors.mainBrown,
+    fontSize: 20.sp,
+    fontFamily: "Poppins",
   );
 
 }
