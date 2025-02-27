@@ -52,7 +52,7 @@ The **Hotel Management System** is a desktop-based application designed to assis
 
 ## 🚀 Technologies Used
 
-- **Programming Language:** Flutter / Java / Python (Specify the language used)
+- **Programming Language:** Flutter / Dart / 
 - **Database:** local database
 - **Authentication:** Secure login system with role-based access
 - **Reporting:** Income reports for financial tracking
