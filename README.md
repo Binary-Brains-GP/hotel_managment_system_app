@@ -65,7 +65,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com//Binary-Brains-GP/Design_Project.git
+   git clone https://github.com//Binary-Brains-GP/hotel_managment_system_app.git
    cd hotel-management-system
    ```
 
